@@ -1,0 +1,106 @@
+.try-for-free{
+    width: 236px;
+    height: 65px;
+    background: #fff;
+    color: cornflowerblue;
+    border-radius: 35px;
+    border: none;
+    font-size: 20px;
+    font-weight: bolder;
+    outline: none;
+}
+.try-for-free:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.try-for-free:active {
+    transform: scale(0.9);
+    background: rgb(196, 196, 196);
+}
+
+.try-for-free2{
+    width: 263px;
+    height: 65px;
+    border-radius: 35px;
+    background: #38A3F1;
+    color: white;
+    border: none;
+    outline: none;
+}
+.try-for-free2:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.try-for-free2:active {
+    transform: scale(0.9);
+    background: rgb(99, 189, 241);
+}
+.subscribe-btn{
+    height: 50px;
+    width: 353px;
+    border: none;
+    background: #EF2779;
+    color: white;
+    outline: none;
+    border-radius: 35px;
+}
+.subscribe-btn:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.subscribe-btn:active {
+    transform: scale(0.9);
+    background: rgb(240, 139, 201);
+}
+.more-testimonials{
+    border-radius: 35px;
+    border: none;
+    width: 280px;
+    height: 65px;
+    color: white;
+    outline: none;
+    background: royalblue;
+}
+.more-testimonials:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.more-testimonials:active {
+    transform: scale(0.9);
+    background: rgb(116, 172, 218);
+}
+.order-now{
+    width: 255px;
+    height: 52px;
+    border-radius: 35px;
+    border: none;
+    color: white;
+    outline: none;
+    background: royalblue;
+}
+.order-gradient{
+    width: 255px;
+    height: 52px;
+    border-radius: 35px;
+    border: none;
+    color: #EF2779;
+    outline: none;
+    background: rgb(255, 255, 255);
+}
+.subscribe-btn1{
+    white-space: 141px;
+    height: 34px;
+    border-radius: 35px;
+    border: none;
+    outline: none;
+    color: #EF2779;
+}
+.footer-send{
+    width: 95px;
+    height: 36px;
+    border-radius: 35px;
+    border: none;
+    color: white;
+    background: #EF2779;
+    margin-top: 20px;
+}

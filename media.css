@@ -1,0 +1,43 @@
+@media screen and (min-width: 375px) and (max-width: 450px) {
+    body {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .box1{
+        width: 433px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .navbar{
+        display: none;
+    }
+    .screen-mask img {
+        width: 378px;
+        margin-left: 50px;
+        height: 194px;
+        display: none;
+    }
+    .box2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .box2 .row{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .box3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 600px;
+
+    }
+
+
+}

@@ -1,0 +1,32 @@
+.email-address{
+    width: 273px;
+    height: 40px;
+    border-radius: 35px;
+    outline: none;
+    border: none;
+}
+.email-address2{
+    width: 353px;
+    height: 54px;
+    border-radius: 35px;
+    border: none;
+    outline: none;
+}
+.footer-input{
+    width: 319px;
+    height: 36px;
+    outline: none;
+    border-radius: 35px;
+    margin-bottom: 20px;
+
+}
+.footer-input-message{
+    padding-bottom: 130px;
+    width: 318px;
+    border-radius: 35px;
+}
+
+
+.input-cont-input{
+    margin-top: 70px;
+}
